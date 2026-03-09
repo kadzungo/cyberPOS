@@ -74,6 +74,8 @@ MySQL
 Server Environment
 
 Apache (XAMPP / WAMP / LAMP)
+
+
 Future Improvements
 
 Printer integration for receipts
