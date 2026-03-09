@@ -74,3 +74,26 @@ MySQL
 Server Environment
 
 Apache (XAMPP / WAMP / LAMP)
+Future Improvements
+
+Printer integration for receipts
+
+Customer login portal
+
+Mobile payment integration (M-Pesa)
+
+Remote PC session monitoring
+
+License system for SaaS distribution
+
+Author
+
+Arnold Tezi
+Backend Developer – PHP & MySQL
+Interest Areas:
+
+ISP Systems
+
+POS Systems
+
+Networking & Automation
